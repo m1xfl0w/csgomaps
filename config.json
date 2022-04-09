@@ -1,0 +1,24 @@
+{
+    "server_ip": "91.211.118.81",
+    "server_port": 27020,
+    "custom_thumb": "https://test.com/images/test.png",
+    "token" : "OTYyMjcyMTY0MjczMzI0MDYy.YlFHyg.JMtSmrJYCvAoUWTAvOqRaElvHCM",
+    "command_prefix" : "!",
+    "refresh_time" : 600,
+    "mm_notify_role": "YOUR_DISCORD_NOTIFY_ROLE",
+    "mm_status_reset_minutes" : 30,
+    "map_banner" : 
+    {
+        "de_mirage" : "https://github.com/m111x/csgomaps/blob/master/mirage.jpeg?raw=true",
+        "de_aztec" : "https://url.com/aztec.png",
+        "fy_pool_day" : "https://url.com/fy_pool_day.png"
+    },
+    "server_commands":
+    {
+        "!soundlist" : "Lists all playable custom sounds",
+        "!admin" : "SourceMod admin menu",
+        "!quake" : "QuakeSounds settings",
+        "!rank" : "Shows your rank on the server",
+        "!votemap" : "Start a map vote"
+    }
+}
